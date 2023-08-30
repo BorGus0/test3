@@ -1,0 +1,33 @@
+/* header,footer{
+    padding: 100px 2px;
+} */
+
+
+.zet1{
+    padding: 100px 2px;
+    width: 900px;
+    color: blue;
+    /* background-color: brown; */
+}
+
+.prim-1{
+     color: #0a4941;
+     background-color: blue;
+     border: brown;
+     border-radius: 12%;
+}
+
+.shag1{
+    margin-top: 10px;;
+    margin-bottom: 10px;
+    border-radius: 12%;
+    /* width: 100px; */
+    height: 70px;
+}
+
+.prim-2{
+    background-color: rgb(140, 140, 173);
+    height: 50px;
+    border: 1px solid red;
+    margin-top: 7px;
+}
