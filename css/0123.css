@@ -6,7 +6,7 @@
 .zet1{
     padding: 100px 2px;
     width: 900px;
-    color: blue;
+    color: #a5c9ab;
     /* background-color: brown; */
 }
 
@@ -28,6 +28,7 @@
 .prim-2{
     background-color: rgb(140, 140, 173);
     height: 50px;
-    border: 1px solid red;
+    border: 1px solid #d49a9a;
     margin-top: 7px;
+    padding-top: ;
 }
