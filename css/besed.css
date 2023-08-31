@@ -1,0 +1,28 @@
+.tit01 {
+  background-color: none;
+  border: 1px solid #3b28a7;
+  margin-top: 1px;
+}
+
+.tit02 {
+  color: #0a4941;
+  background-color: blue;
+  border-radius: 10%;
+  background-color: #e7bebe;
+  border: 1.5px solid red;
+  margin-top: 1.5px;
+}
+
+.tit03 {
+  color: #0a4941;
+  border-radius: 10%;
+  background-color: none;
+  border: 1.5px solid green;
+  margin-top: 2px;
+}
+
+.txt-01 {
+  color: blank;
+  margin-top: -6px;
+  font-size: 150%;
+}/*# sourceMappingURL=besed.css.map */
